@@ -34,7 +34,11 @@ body {
     letter-spacing: 0.02em;
 }
 
-.menu-link:focus {
+.menu-link:hover{
+     color: #404bbf;
+}  
+
+.menu-link:focus{
     color: #404bbf;
 }
 
@@ -54,7 +58,7 @@ body {
 }
 
 .link-address:hover{
-    bbackground-color: #404BBF;
+    background-color: #404BBF;
 }
 
 .link-address:focus{
@@ -88,7 +92,7 @@ background-color: #2E2F42;
 }
 
 .menu-button:focus{
-    bbackground-color: #404BBF;
+    background-color: #404BBF;
 }
 
 .subheader-features{
