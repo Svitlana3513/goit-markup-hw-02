@@ -58,7 +58,7 @@ body {
 }
 
 .link-address:hover{
-    background-color: #404BBF;
+    background-color: #404bbf;
 }
 
 .link-address:focus{
@@ -91,7 +91,7 @@ background-color: #2E2F42;
     background-color: #404BBF;
 }
 
-.mein-button:focus{
+.main-button:focus{
     background-color: #404BBF;
 }
 
