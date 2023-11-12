@@ -34,10 +34,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.menu-link:hover {
-    color: #404bbf;
-}  
-
+  
+.menu-link:hover,
 .menu-link:focus{
     color: #404bbf;
 }
