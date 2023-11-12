@@ -34,9 +34,11 @@ body {
     letter-spacing: 0.02em;
 }
 
-.menu-link:hover{
+.menu-link:focus {
     color: #404bbf;
 }
+
+
 
 .link-address{
     color: #434455;
@@ -47,7 +49,15 @@ body {
     letter-spacing: 0.02em;
 }
 
+.address{
+    font-style: normal;
+}
+
 .link-address:hover{
+    bbackground-color: #404BBF;
+}
+
+.link-address:focus{
     color: #404bbf;
 }
 
@@ -73,9 +83,12 @@ background-color: #2E2F42;
       letter-spacing: 0.04em;
 }
 
-.main-button:hover,
+.main-button:hover{
+    background-color: #404BBF;
+}
+
 .menu-button:focus{
-    background: #404BBF;
+    bbackground-color: #404BBF;
 }
 
 .subheader-features{
